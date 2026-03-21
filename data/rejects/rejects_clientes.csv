@@ -1,0 +1,28 @@
+id_cliente,cliente,correo,telefono,email_valido,telefono_valido
+CL1005,Ana Mendoza,cliente555gmail.com,78847864,False,True
+CL1006,Andrés López,cliente645@outlook.com,,True,False
+CL1010,Fernando Gómez,,76885202,False,True
+CL1012,Carmen Rivas,cliente1272@outlook.com,,True,False
+CL1014,Carmen Mendoza,cliente1477correo.sv,77013173,False,True
+CL1016,Marta Santos,cliente1652@correo.sv,+503 75486191,True,False
+CL1027,Elena Ramírez,,73992809,False,True
+CL1034,Marta Cruz,cliente3454@gmail.com,,True,False
+CL1036,Carlos Gómez,cliente3665@correo.sv,+503 77239477,True,False
+CL1043,Ana Romero,cliente4365empresa.com,78261516,False,True
+CL1050,Jorge Rivas,cliente5069gmail.com,76769487,False,True
+CL1051,Lucía Pérez,cliente5179correo.sv,78462628,False,True
+CL1053,Carmen Rivera,cliente5343@outlook.com,+503 71062764,True,False
+CL1054,Marta Mejía,cliente5490@correo.sv,78822425-,True,False
+CL1062,José Martínez,cliente6211correo.sv,75544360,False,True
+CL1077,Diego Morales,,75356137,False,True
+CL1079,Valeria Gómez,cliente7922empresa.com,73266981,False,True
+CL1084,Andrés Romero,,,False,False
+CL1086,Valeria Torres,cliente8638outlook.com,73817539,False,True
+CL1092,Daniela Gómez,cliente9221@empresa.com,+503 71929073,True,False
+CL1094,Paola Guerrero,,73486962,False,True
+CL1100,Carmen Torres,,79293388-,False,False
+CL1105,José Gómez,,74726461,False,True
+CL1111,Ricardo Reyes,cliente11156@outlook.com,+503 79057779,True,False
+CL1113,Pedro Mejía,correo_invalido,75883188,False,True
+CL1126,Camila Ramírez,cliente12692@gmail.com,+503 78892920,True,False
+CL1005,Ana Mendoza,cliente555gmail.com,78847864,False,True
